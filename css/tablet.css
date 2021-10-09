@@ -1,0 +1,28 @@
+.main-exchange--container .main-exchange__table--container {
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.scroll__button--right,
+.scroll__button--left {
+  display: none;
+}
+
+.content__main--details > .detail__item--container {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 730px;
+  gap: 15px;
+  margin: 0 auto;
+  margin-top: 24px;
+}
+
+.detail__item--container > .detail__item {
+  margin: 0;
+}
+
+.planes__content .planes__item--container {
+  justify-content: center;
+  overflow: hidden;
+}
